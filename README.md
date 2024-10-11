@@ -1,4 +1,4 @@
 yngsmtn
 24
-design n development
+design and development
 # firstRepository
